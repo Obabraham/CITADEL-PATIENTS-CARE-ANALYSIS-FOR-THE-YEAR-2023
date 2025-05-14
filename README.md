@@ -1,6 +1,7 @@
 # CITADEL-PATIENTS-CARE-ANALYSIS-FOR-THE-YEAR-2023
 This report underscores the importance of data-driven strategies in improving patient outcomes, optimizing resource allocation, and enhancing overall healthcare service delivery.
-https://i.postimg.cc/zBxrYH3N/Citadel-Patient-Care-Report.png
+![Citadel patient care Dashboard Screenshot](https://github.com/user-attachments/assets/6c7a01a3-c725-42f5-8d8b-254ae1aff890)
+
 1. Introduction
 
 The Citadel Patient Care Analysis Report for the year 2023 provides a comprehensive overview of patient care trends, medication usage, demographic attendance, and medical conditions treated at the healthcare facility. This report visualizes critical healthcare data to inform decision-making, improve service delivery, and optimize resource allocation.
